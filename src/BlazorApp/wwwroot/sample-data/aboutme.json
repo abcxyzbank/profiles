@@ -2,7 +2,8 @@
   "description": "I'm a DevOps Engineer working at Amedio Web Services. I enjoy creating unique and simplistic user interfaces in creative ways.",
   "skills": [
     "DevOps",
-    "Cloud Native"
+    "Cloud Native",
+    "GitOps"
   ],
   "detailOrQuote": "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all."
 }
