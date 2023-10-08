@@ -1,9 +1,11 @@
 {
-  "description": "I'm a DevOps Engineer working at Amedio Web Services. I enjoy creating unique and simplistic user interfaces in creative ways.",
+  "description": "I'm a Platform Engineer working at Amedio Web Services. A Platform Engineer is a professional responsible for designing, implementing, and maintaining the underlying infrastructure that supports software applications and services. They play a crucial role in ensuring that software runs efficiently, reliably, and at scale.",
   "skills": [
     "DevOps",
     "Cloud Native",
-    "GitOps"
+    "GitOps",
+    "Infrastructure Management",
+    "CI & CD"
   ],
-  "detailOrQuote": "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all."
+  "detailOrQuote": "Platform Engineer is a critical member of a software development and operations team, responsible for ensuring that the underlying infrastructure is robust, efficient, and scalable. Their work enables applications to run smoothly and reliably, even under high demand."
 }
